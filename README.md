@@ -1,2 +1,6 @@
-# advent-of-code
-Exercises done in groovy
+# Advent of Code 2015
+- Exercises done in groovy
+- All days with the two parts
+
+
+
